@@ -33,5 +33,4 @@ markdown_extensions:
 
 nav:
   - Introduction: index.md
-  - Patterns: patterns.md
   - Sample Queries: queries.md
