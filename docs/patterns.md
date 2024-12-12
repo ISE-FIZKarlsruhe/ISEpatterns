@@ -6,6 +6,17 @@ Explore, contribute, and collaborate with a global community of ontology practit
 
 Start your journey by browsing patterns, sharing your own, or learning how ODPs can transform your semantic projects!
 
+## How to start:
+
+1. create a new directory in the patterns folder of this documentation. 
+
+2. Make a copy of the [pattern description template](patterns/template.md) to your new folder.
+
+3. Fill the template will al the imprtant information. 
+
+4. Link your pattern here.
+
+
 
 ## Patterns related to Persons
 
