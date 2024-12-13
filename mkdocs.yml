@@ -33,4 +33,5 @@ markdown_extensions:
 
 nav:
   - Introduction: index.md
+  - Good Practices: good-practices.md
   - Sample Queries: queries.md
